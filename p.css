@@ -1,0 +1,14 @@
+    body{
+        font-family: verdana, arial, helvetica, sans-serif;
+        text-align: center;
+        margin: 1em 0px 1em;
+        font-size: 16px;
+    }a{
+        font-family: arial, sans-serif;
+        padding-left: 1px;
+        padding-right: 1px;
+    }a:hover{
+        font-weight: bolder;
+    }
+
+/* vim: set ts=2 sw=2 sts=2 et : */

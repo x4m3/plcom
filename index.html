@@ -15,48 +15,8 @@
     <meta name="msapplication-config" content="http://s.philippeloctaux.com/favicon/browserconfig.xml">
     <meta name="theme-color" content="#ffffff">
     <title>Philippe Loctaux</title>
-    <style>
-    body{
-        font-family: verdana, arial, helvetica, sans-serif;
-        text-align: center;
-        margin: 1em 0px 1em;
-        font-size: 16px;
-    }a{
-        font-family: arial, sans-serif;
-        padding-left: 1px;
-        padding-right: 1px;
-    }a:hover{
-        font-weight: bolder;
-    }
-    </style>
-    <script>
-    var ss = [
-        { "rn" : "maybe sleeping" },
-        { "rn" : "tea powered person" },
-        { "rn" : "это фиаско братан!" },
-        { "rn" : "i need to do more stuff" },
-        { "rn" : "работаем ребята!" },
-        { "rn" : "non-stop chaos" },
-        { "rn" : "happy new year!" },
-        { "rn" : "check out <a href='http://db.philippeloctaux.com'><b>deadbead</b></a>!" },
-        { "rn" : "random carnage à la phil" },
-        { "rn" : "half french half russian and half drunk" },
-	{ "rn" : "vim lover" },
-	{ "rn" : "trashcan maker <a href='https://poubelle.online'>poubelle.online</a>" }
-    ];
-    var NuOb = Object.keys(ss).length;
-    function getRand() {
-        min = Math.ceil(0);
-        max = Math.floor(NuOb);
-        max = max--;
-        return Math.floor(Math.random() * (max - min)) + min;
-    }
-    var FiNu = getRand();
-    window.addEventListener("load", function() {
-        document.getElementById("q").innerHTML = ss[FiNu].rn;
-        console.log("status number " + FiNu + " displayed");
-    }, false);
-    </script>
+    <link rel="stylesheet" href="p.css">
+    <script src="p.js" charset="utf-8" async></script>
 </head>
 <body>
     <header>
