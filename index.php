@@ -6,13 +6,13 @@
     <meta name="description" content="philippe loctaux's website">
     <meta name="keywords" content="philippe,loctaux,phil,philippeloctaux,филипп,локто,x4m3chki">
     <meta name="google-site-verification" content="Ip8FH-JW2fMPsPgtilA0BigqNXq7wHGt_OCXhbcoJN0" />
-    <link rel="apple-touch-icon" sizes="180x180" href="/f/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/f/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/f/favicon-16x16.png">
-    <link rel="manifest" href="/f/manifest.json">
-    <link rel="mask-icon" href="/f/safari-pinned-tab.svg" color="#ff0000">
-    <link rel="shortcut icon" href="/f/favicon.ico">
-    <meta name="msapplication-config" content="/f/browserconfig.xml">
+    <link rel="apple-touch-icon" sizes="180x180" href="http://s.philippeloctaux.com/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="http://s.philippeloctaux.com/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="http://s.philippeloctaux.com/favicon/favicon-16x16.png">
+    <link rel="manifest" href="http://s.philippeloctaux.com/favicon/manifest.json">
+    <link rel="mask-icon" href="http://s.philippeloctaux.com/favicon/safari-pinned-tab.svg" color="#ff0000">
+    <link rel="shortcut icon" href="http://s.philippeloctaux.com/favicon/favicon.ico">
+    <meta name="msapplication-config" content="http://s.philippeloctaux.com/favicon/browserconfig.xml">
     <meta name="theme-color" content="#ffffff">
     <title>Philippe Loctaux</title>
     <style>
