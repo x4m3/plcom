@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/ploctaux
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://philippeloctaux.com
+  * I am ploctaux (https://keybase.io/ploctaux) on keybase.
+  * I have a public key ASDiouO9wpw-gXZkdgrSJOoOtA4vR6QtiwFZmOkz4YHP-Ao
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012031e0ba3540a4f61c93026d2a816af315dea21d014fdfc3bc11627733d19f2a890a",
+      "host": "keybase.io",
+      "kid": "0120e2a2e3bdc29c3e817664760ad224ea0eb40e2f47a42d8b015998e933e181cff80a",
+      "uid": "80cfc79a77a5aefc5436f033f06c9c19",
+      "username": "ploctaux"
+    },
+    "merkle_root": {
+      "ctime": 1501967359,
+      "hash": "db16c5e4bba0d69b79e6fb7b9a50354552d91210d7bea99eb6bc311a0fd26846424316dae49fe3a2fff1870a545c727bd6fc615cd02cb22f3b6b1d525abb3a25",
+      "hash_meta": "100804b821987a4a8c9cdf36addf949ebe8f7aad3af72b8179868759a7c7d519",
+      "seqno": 1307108
+    },
+    "service": {
+      "hostname": "philippeloctaux.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.26"
+  },
+  "ctime": 1501967411,
+  "expire_in": 504576000,
+  "prev": "d070b187ff163148e353ffa2edb7fae70ee0bfb95004a248ab32b3a282de8815",
+  "seqno": 89,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg4qLjvcKcPoF2ZHYK0iTqDrQOL0ekLYsBWZjpM+GBz/gKp3BheWxvYWTFA0x7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMzFlMGJhMzU0MGE0ZjYxYzkzMDI2ZDJhODE2YWYzMTVkZWEyMWQwMTRmZGZjM2JjMTE2Mjc3MzNkMTlmMmE4OTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZTJhMmUzYmRjMjljM2U4MTc2NjQ3NjBhZDIyNGVhMGViNDBlMmY0N2E0MmQ4YjAxNTk5OGU5MzNlMTgxY2ZmODBhIiwidWlkIjoiODBjZmM3OWE3N2E1YWVmYzU0MzZmMDMzZjA2YzljMTkiLCJ1c2VybmFtZSI6InBsb2N0YXV4In0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTAxOTY3MzU5LCJoYXNoIjoiZGIxNmM1ZTRiYmEwZDY5Yjc5ZTZmYjdiOWE1MDM1NDU1MmQ5MTIxMGQ3YmVhOTllYjZiYzMxMWEwZmQyNjg0NjQyNDMxNmRhZTQ5ZmUzYTJmZmYxODcwYTU0NWM3MjdiZDZmYzYxNWNkMDJjYjIyZjNiNmIxZDUyNWFiYjNhMjUiLCJoYXNoX21ldGEiOiIxMDA4MDRiODIxOTg3YTRhOGM5Y2RmMzZhZGRmOTQ5ZWJlOGY3YWFkM2FmNzJiODE3OTg2ODc1OWE3YzdkNTE5Iiwic2Vxbm8iOjEzMDcxMDh9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoicGhpbGlwcGVsb2N0YXV4LmNvbSIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjI2In0sImN0aW1lIjoxNTAxOTY3NDExLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6ImQwNzBiMTg3ZmYxNjMxNDhlMzUzZmZhMmVkYjdmYWU3MGVlMGJmYjk1MDA0YTI0OGFiMzJiM2EyODJkZTg4MTUiLCJzZXFubyI6ODksInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RADJhthw6EP/rlqJzx9scrJ7PelAxz5F9E6cSMaHUXHQ8N7SR2Soihg6KS4XRD8Vo0or1gvdVwdhHK4nn8w/NqAqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPRmmM2IqyzzaezOeSMwEp/9zymi9mwbvgi7WisA3S+Vo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ploctaux
+
+==================================================================
