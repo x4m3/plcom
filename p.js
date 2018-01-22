@@ -5,7 +5,6 @@ var ss = [
         { "rn" : "i need to do more stuff" },
         { "rn" : "работаем ребята!" },
         { "rn" : "non-stop chaos" },
-        { "rn" : "happy new year!" },
         { "rn" : "check out <a href='http://db.philippeloctaux.com'><b>deadbead</b></a>!" },
         { "rn" : "random carnage à la phil" },
         { "rn" : "half french half russian and half drunk" },
