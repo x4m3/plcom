@@ -9,6 +9,14 @@ body{
   padding-right: 1px;
 }a:hover{
   font-weight: bolder;
+}footer{
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #efefef;
+  text-align: center;
 }
 
 /* vim: set ts=2 sw=2 sts=2 et : */
