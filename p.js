@@ -9,7 +9,8 @@ var ss = [
   { "rn" : "random carnage à la phil" },
   { "rn" : "half french half russian and half drunk" },
   { "rn" : "vim lover" },
-  { "rn" : "trashcan maker <a href='https://poubelle.online'>poubelle.online</a>" }
+  { "rn" : "trashcan maker <a href='https://poubelle.online'>poubelle.online</a>" },
+  { "rn" : "#заебись" }
 ];
 var NuOb = Object.keys(ss).length;
 function getRand() {
