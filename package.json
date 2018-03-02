@@ -5,6 +5,7 @@
   "author": "Philippe Loctaux <loctauxphilippe@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "gulp": "^3.9.1"
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.5.0"
   }
 }
