@@ -1,6 +1,9 @@
 # x4m3's gitignore
 # by default: vim, git, linux, osx, windows 
 
+### nodejs ###
+node_modules/
+
 ### Vim ###
 # swap
 [._]*.s[a-v][a-z]
