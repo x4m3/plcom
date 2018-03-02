@@ -18,8 +18,5 @@ gulp.task('out-serve', function() {
 	/* do your shit */
 });
 
-gulp.task('build', function() {
-	/* function to build shit */
-});
-
+gulp.task('build', ['html', 'css', 'js']);
 gulp.task('default', ['src-serve']);
