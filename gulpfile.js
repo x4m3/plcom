@@ -1,10 +1,11 @@
 /* gulpfile.js - ready to drink up? */
 
-var gulp = require('gulp');
+var gulp = require('gulp'); /* u stupid or wat */
 var pump = require('pump'); /* to handle shit errors */
 var connect = require('gulp-connect'); /* http server */
 var htmlmin = require('gulp-htmlmin'); /* shit-out the html */
-var uglify = require('gulp-uglify'); /* kick the js in the balls */
+var uglify = require('gulp-uglify'); /* kick the js in the ass */
+var cleanCSS = require('gulp-clean-css'); /* shoot in the balls of the css */
 
 gulp.task('src-serve', function() {
 	connect.server({
@@ -27,13 +28,18 @@ gulp.task('html', function() {
 		.pipe(gulp.dest('out'));
 });
 
-
 gulp.task('js', function (cb) {
 	pump([
 		gulp.src('src/*.js'),
 		uglify(),
 		gulp.dest('out')
 	], cb);
+});
+
+gulp.task('css', () => {
+	return gulp.src('src/*.css')
+		.pipe(cleanCSS())
+		.pipe(gulp.dest('out'));
 });
 
 gulp.task('build', ['html', 'css', 'js']);
