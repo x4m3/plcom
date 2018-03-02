@@ -13,13 +13,18 @@ gulp.task('src-serve', function() {
 		root: 'src',
 		host: '0.0.0.0',
 		port: 8002,
-		https: false,
-		livereload: true
+		https: false
 	});
 });
 
 gulp.task('out-serve', function() {
-	/* do your shit */
+	connect.server({
+		name: 'out server',
+		root: 'out',
+		host: '0.0.0.0',
+		port: 8002,
+		https: false
+	});
 });
 
 gulp.task('html', function() {
