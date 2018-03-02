@@ -47,5 +47,8 @@ gulp.task('css', () => {
 		.pipe(gulp.dest('out'));
 });
 
+gulp.task('default', function() {
+	console.log("sup?");
+});
+
 gulp.task('build', ['html', 'css', 'js']);
-gulp.task('default', ['src-serve']);
