@@ -1,8 +1,10 @@
 /* gulpfile.js - ready to drink up? */
 
 var gulp = require('gulp');
-var connect = require('gulp-connect');
-var htmlmin = require('gulp-htmlmin');
+var pump = require('pump'); /* to handle shit errors */
+var connect = require('gulp-connect'); /* http server */
+var htmlmin = require('gulp-htmlmin'); /* shit-out the html */
+var uglify = require('gulp-uglify'); /* kick the js in the balls */
 
 gulp.task('src-serve', function() {
 	connect.server({
