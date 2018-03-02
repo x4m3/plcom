@@ -27,5 +27,14 @@ gulp.task('html', function() {
 		.pipe(gulp.dest('out'));
 });
 
+
+gulp.task('js', function (cb) {
+	pump([
+		gulp.src('src/*.js'),
+		uglify(),
+		gulp.dest('out')
+	], cb);
+});
+
 gulp.task('build', ['html', 'css', 'js']);
 gulp.task('default', ['src-serve']);
