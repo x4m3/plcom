@@ -6,6 +6,7 @@ var connect = require('gulp-connect'); /* http server */
 var htmlmin = require('gulp-htmlmin'); /* shit-out the html */
 var uglify = require('gulp-uglify'); /* kick the js in the ass */
 var cleanCSS = require('gulp-clean-css'); /* shoot in the balls of the css */
+var svgmin = require('gulp-svgmin'); /* give a shower to the svg */
 
 gulp.task('src-serve', function() {
 	connect.server({
@@ -47,8 +48,14 @@ gulp.task('css', () => {
 		.pipe(gulp.dest('out'));
 });
 
+gulp.task('svg', function() {
+	return gulp.src('src/*.svg')
+		.pipe(svgmin())
+		.pipe(gulp.dest('out'));
+});
+
 gulp.task('default', function() {
 	console.log("sup?");
 });
 
-gulp.task('build', ['html', 'css', 'js']);
+gulp.task('build', ['html', 'css', 'js', 'svg']);
