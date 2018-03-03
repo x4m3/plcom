@@ -54,8 +54,13 @@ gulp.task('svg', function() {
 		.pipe(gulp.dest('out'));
 });
 
+gulp.task('copy', function() {
+	return gulp.src(['src/keybase.txt', 'src/names.mp3', 'src/pgp.asc'])
+		.pipe(gulp.dest('out'));
+});
+
 gulp.task('default', function() {
 	console.log("sup?");
 });
 
-gulp.task('build', ['html', 'css', 'js', 'svg']);
+gulp.task('build', ['copy', 'html', 'css', 'js', 'svg']);
