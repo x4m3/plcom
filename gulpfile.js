@@ -63,4 +63,4 @@ gulp.task('default', function() {
 	console.log("sup?");
 });
 
-gulp.task('build', ['copy', 'html', 'css', 'js', 'svg']);
+gulp.task('build', ['html', 'css', 'js', 'svg', 'copy']);
