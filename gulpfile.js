@@ -59,8 +59,5 @@ gulp.task('copy', function() {
 		.pipe(gulp.dest('out'));
 });
 
-gulp.task('default', function() {
-	console.log("sup?");
-});
-
+gulp.task('default', ['build', 'out-serve']);
 gulp.task('build', ['html', 'css', 'js', 'svg', 'copy']);
