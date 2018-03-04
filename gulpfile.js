@@ -65,7 +65,7 @@ gulp.task('img', function() {
 		.pipe(imagemin({
 			verbose: true
 		}))
-		.pipe(gulp.dest('out'));
+		.pipe(gulp.dest('out/'));
 });
 
 gulp.task('default', function() {
