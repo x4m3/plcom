@@ -55,7 +55,7 @@ gulp.task('svg', function() {
 });
 
 gulp.task('copy', function() {
-	return gulp.src(['src/keybase.txt', 'src/names.mp3', 'src/pgp.asc'])
+	return gulp.src(['src/keybase.txt', 'src/names.mp3', 'src/pgp.asc', 'src/pic.jpg'])
 		.pipe(gulp.dest('out'));
 });
 
