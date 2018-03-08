@@ -1,0 +1,13 @@
+body{
+	font-family: verdana, helvetica, arial, sans-serif;
+	text-align: center;
+	margin: 1em 0px 1em;
+	font-size: 16px;
+	background-color: #eee;
+}a{
+	font-family: arial, sans-serif;
+	padding-left: 1px;
+	padding-right: 1px;
+}a:hover{
+	font-weight: bolder;
+}
