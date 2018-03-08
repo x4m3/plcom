@@ -4,7 +4,9 @@
 	"description": "",
 	"author": "Philippe Loctaux <loctauxphilippe@gmail.com>",
 	"license": "MIT",
-	"scripts": { "gulp": "gulp" },
+	"scripts": {
+		"gulp": "gulp"
+	},
 	"devDependencies": {
 		"gulp": "^3.9.1",
 		"gulp-clean-css": "^3.9.2",
