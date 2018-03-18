@@ -16,3 +16,25 @@ npm run gulp build
 ```
 ## commands to run for phil
 `git remote add deploy vps:~/plcom-gulp.git`
+
+## git hook on the server
+```bash
+#!/bin/sh
+
+GIT_REPO=https://github.com/x4m3/plcom.git
+TMP_GIT_CLONE=/tmp/plcom
+PUBLIC_WWW=/srv/www/phil
+
+echo "starting"
+git clone $GIT_REPO $TMP_GIT_CLONE --depth=1
+echo "git repo cloned"
+cd $TMP_GIT_CLONE
+echo "installing npm stuff"
+npm i
+echo "building"
+npm run gulp build
+cp out/* $PUBLIC_WWW -r -v
+rm -Rf $TMP_GIT_CLONE
+echo "built and ready to be served"
+exit
+```
