@@ -12,7 +12,8 @@ var ss = [
 { "rn" : "trashcan maker <a href='http://poubelle.online'>poubelle.online</a>" },
 { "rn" : "#заебись" },
 { "rn" : "sleep, eat, code, repeat" },
-{ "rn" : "go top 1" }
+{ "rn" : "go top 1" },
+{ "rn" : "playing <a href='http://canvas.place'>canvas.place</a> brb" }
 ];
 var NuOb = Object.keys(ss).length;
 function getRand() {
