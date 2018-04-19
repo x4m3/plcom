@@ -15,15 +15,24 @@ var phil = [
 { "rn" : "go top 1" },
 { "rn" : "playing <a href='http://canvas.place'>canvas.place</a> brb" }
 ];
+var tool = [
+{ "used": "vim" },
+{ "used": "vscode" },
+{ "used": "linux" },
+{ "used": "windows" }
+];
 var NuOb = Object.keys(phil).length;
-function getRand() {
+var NuOb_editor = Object.keys(tool).length;
+function getRand(number_objects) {
 	min = Math.ceil(0);
-	max = Math.floor(NuOb);
+	max = Math.floor(number_objects);
 	max = max--;
 	return Math.floor(Math.random() * (max - min)) + min;
 }
-var FiNu = getRand();
+var FiNu = getRand(NuOb);
+var final_number_tool = getRand(NuOb_editor);
 window.addEventListener("load", function() {
 	document.getElementById("phil-status").innerHTML = phil[FiNu].rn;
+	document.getElementById("tool-used").innerHTML = tool[final_number_tool].used;
 	console.log("status number " + FiNu + " displayed");
 }, false);
