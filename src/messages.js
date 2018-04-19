@@ -20,7 +20,8 @@ var tool = [
 "vim",
 "vscode",
 "linux",
-"windows"
+"windows",
+"git"
 ];
 
 /* get the number of elements */
