@@ -15,22 +15,27 @@ var phil = [
 { "rn" : "go top 1" },
 { "rn" : "playing <a href='http://canvas.place'>canvas.place</a> brb" }
 ];
+
 var tool = [
 { "used": "vim" },
 { "used": "vscode" },
 { "used": "linux" },
 { "used": "windows" }
 ];
+
 var number_objects_phil = Object.keys(phil).length;
 var number_objects_tool = Object.keys(tool).length;
+
 function getRand(number_objects) {
 	min = Math.ceil(0);
 	max = Math.floor(number_objects);
 	max = max--;
 	return Math.floor(Math.random() * (max - min)) + min;
 }
+
 var final_number_phil = getRand(number_objects_phil);
 var final_number_tool = getRand(number_objects_tool);
+
 window.addEventListener("load", function() {
 	document.getElementById("phil-status").innerHTML = phil[final_number_phil].rn;
 	document.getElementById("tool-used").innerHTML = tool[final_number_tool].used;
