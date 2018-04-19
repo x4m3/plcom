@@ -34,5 +34,4 @@ var final_number_tool = getRand(number_objects_tool);
 window.addEventListener("load", function() {
 	document.getElementById("phil-status").innerHTML = phil[final_number_phil].rn;
 	document.getElementById("tool-used").innerHTML = tool[final_number_tool].used;
-	console.log("status number " + final_number_phil + " displayed");
 }, false);
