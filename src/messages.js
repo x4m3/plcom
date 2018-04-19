@@ -21,18 +21,18 @@ var tool = [
 { "used": "linux" },
 { "used": "windows" }
 ];
-var NuOb = Object.keys(phil).length;
-var NuOb_editor = Object.keys(tool).length;
+var number_objects_phil = Object.keys(phil).length;
+var number_objects_tool = Object.keys(tool).length;
 function getRand(number_objects) {
 	min = Math.ceil(0);
 	max = Math.floor(number_objects);
 	max = max--;
 	return Math.floor(Math.random() * (max - min)) + min;
 }
-var FiNu = getRand(NuOb);
-var final_number_tool = getRand(NuOb_editor);
+var final_number_phil = getRand(number_objects_phil);
+var final_number_tool = getRand(number_objects_tool);
 window.addEventListener("load", function() {
-	document.getElementById("phil-status").innerHTML = phil[FiNu].rn;
+	document.getElementById("phil-status").innerHTML = phil[final_number_phil].rn;
 	document.getElementById("tool-used").innerHTML = tool[final_number_tool].used;
-	console.log("status number " + FiNu + " displayed");
+	console.log("status number " + final_number_phil + " displayed");
 }, false);
