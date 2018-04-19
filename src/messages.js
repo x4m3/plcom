@@ -41,6 +41,6 @@ var final_number_tool = get_random_number(number_objects_tool);
 
 /* display the object in the html on page load */
 window.addEventListener("load", function() {
-	document.getElementById("phil-status").innerHTML = phil[final_number_phil].rn;
+	document.getElementById("phil-rn").innerHTML = phil[final_number_phil].rn;
 	document.getElementById("tool-used").innerHTML = tool[final_number_tool].used;
 }, false);
