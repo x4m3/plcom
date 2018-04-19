@@ -28,7 +28,7 @@ var number_objects_phil = Object.keys(phil).length;
 var number_objects_tool = Object.keys(tool).length;
 
 /* function to get a random number based on the number of objects */
-function getRand(number_objects) {
+function get_random_number(number_objects) {
 	min = Math.ceil(0);
 	max = Math.floor(number_objects);
 	max = max--;
@@ -36,8 +36,8 @@ function getRand(number_objects) {
 }
 
 /* store the number of the object to display */
-var final_number_phil = getRand(number_objects_phil);
-var final_number_tool = getRand(number_objects_tool);
+var final_number_phil = get_random_number(number_objects_phil);
+var final_number_tool = get_random_number(number_objects_tool);
 
 /* display the object in the html on page load */
 window.addEventListener("load", function() {
