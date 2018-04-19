@@ -23,9 +23,11 @@ var tool = [
 { "used": "windows" }
 ];
 
+/* get the number of objects */
 var number_objects_phil = Object.keys(phil).length;
 var number_objects_tool = Object.keys(tool).length;
 
+/* function to get a random number based on the number of objects */
 function getRand(number_objects) {
 	min = Math.ceil(0);
 	max = Math.floor(number_objects);
@@ -33,9 +35,11 @@ function getRand(number_objects) {
 	return Math.floor(Math.random() * (max - min)) + min;
 }
 
+/* store the number of the object to display */
 var final_number_phil = getRand(number_objects_phil);
 var final_number_tool = getRand(number_objects_tool);
 
+/* display the object in the html on page load */
 window.addEventListener("load", function() {
 	document.getElementById("phil-status").innerHTML = phil[final_number_phil].rn;
 	document.getElementById("tool-used").innerHTML = tool[final_number_tool].used;
