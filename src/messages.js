@@ -21,7 +21,11 @@ var tool = [
 "vscode",
 "linux",
 "windows",
-"git"
+"git",
+"spotify",
+"the internet",
+"chrome",
+"patience"
 ];
 
 /* get the number of elements */
