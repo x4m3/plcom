@@ -1,11 +1,12 @@
 # x4m3's gitignore
-# by default: vim, git, linux, osx, windows 
+# by default: vim, git, linux, osx, windows
 
 ### shit built ###
 out/
 
 ### nodejs ###
 node_modules/
+npm-debug.log
 
 ### Vim ###
 # swap
@@ -84,5 +85,3 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-
-npm-debug.log
