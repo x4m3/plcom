@@ -17,6 +17,7 @@
             "label": "deploy to server",
             "type": "shell",
             "command": "git push origin master; git push deploy master",
+            "problemMatcher": []
         }
     ]
 }
