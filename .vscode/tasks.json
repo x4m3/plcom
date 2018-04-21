@@ -6,12 +6,16 @@
         {
             "type": "gulp",
             "task": "build",
-            "problemMatcher": []
+            "problemMatcher": [
+                "$gulp-tsc"
+            ]
         },
         {
             "type": "gulp",
             "task": "src-serve",
-            "problemMatcher": []
+            "problemMatcher": [
+                "$gulp-tsc"
+            ]
         },
         {
             "label": "deploy to server",
