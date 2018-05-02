@@ -1,22 +1,23 @@
 {
-	"name": "plcom",
-	"version": "1.0.0",
-	"description": "",
-	"author": "Philippe Loctaux <loctauxphilippe@gmail.com>",
-	"license": "MIT",
-	"homepage": "http://philippeloctaux.com",
-	"scripts": {
-		"gulp": "gulp"
-	},
-	"devDependencies": {
-		"gulp": "^3.9.1",
-		"gulp-clean-css": "^3.9.2",
-		"gulp-connect": "^5.5.0",
-		"gulp-htmlmin": "^4.0.0",
-		"gulp-svgmin": "^1.2.4",
-		"gulp-uglify": "^3.0.0"
-	},
-	"dependencies": {
-		"pump": "^3.0.0"
-	}
+  "name": "plcom",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Philippe Loctaux <loctauxphilippe@gmail.com>",
+  "license": "MIT",
+  "homepage": "http://philippeloctaux.com",
+  "scripts": {
+    "gulp": "gulp"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.9.2",
+    "gulp-connect": "^5.5.0",
+    "gulp-htmlmin": "^4.0.0",
+    "gulp-latex": "^1.0.1",
+    "gulp-svgmin": "^1.2.4",
+    "gulp-uglify": "^3.0.0"
+  },
+  "dependencies": {
+    "pump": "^3.0.0"
+  }
 }
