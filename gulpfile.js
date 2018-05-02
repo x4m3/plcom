@@ -7,6 +7,7 @@ var htmlmin = require('gulp-htmlmin'); /* shit-out the html */
 var uglify = require('gulp-uglify'); /* kick the js in the ass */
 var cleanCSS = require('gulp-clean-css'); /* shoot in the balls of the css */
 var svgmin = require('gulp-svgmin'); /* give a shower to the svg */
+var latex = require('gulp-latex'); /* compile the latex file */
 
 gulp.task('src-serve', function() {
 	connect.server({
@@ -54,10 +55,16 @@ gulp.task('svg', function() {
 		.pipe(gulp.dest('out'));
 });
 
+gulp.task('latex',function() {
+	return gulp.src('src/*.tex')
+		.pipe( latex() )
+		.pipe( gulp.dest('out') )
+})
+
 gulp.task('copy', function() {
 	return gulp.src(['src/keybase.txt', 'src/names.mp3', 'src/pgp.asc', 'src/pic.jpg'])
 		.pipe(gulp.dest('out'));
 });
 
 gulp.task('default', ['build', 'out-serve']);
-gulp.task('build', ['html', 'css', 'js', 'svg', 'copy']);
+gulp.task('build', ['html', 'css', 'js', 'svg', 'latex', 'copy']);
