@@ -25,6 +25,8 @@ var tool = [
 "spotify",
 "the internet",
 "chrome",
+"npm",
+"gulp"
 ];
 
 /* get the number of elements */
