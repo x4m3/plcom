@@ -4,6 +4,7 @@
 	"description": "",
 	"author": "Philippe Loctaux <loctauxphilippe@gmail.com>",
 	"license": "MIT",
+	"homepage": "http://philippeloctaux.com",
 	"scripts": {
 		"gulp": "gulp"
 	},
