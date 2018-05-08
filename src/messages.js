@@ -13,7 +13,8 @@ var phil = [
 "#заебись",
 "sleep, eat, code, repeat",
 "go top 1",
-"playing <a href='http://canvas.place'>canvas.place</a> brb"
+"playing <a href='http://canvas.place'>canvas.place</a> brb",
+"laughing at <a href='https://www.reddit.com/r/ProgrammerHumor'>r/programmerhumor</a> memes brb"
 ];
 
 var tool = [
