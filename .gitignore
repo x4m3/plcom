@@ -4,6 +4,12 @@
 ### shit built ###
 out/
 
+### latex ###
+*.aux
+*.log
+*.out
+*.pdf
+
 ### nodejs ###
 node_modules/
 npm-debug.log
