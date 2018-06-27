@@ -8,8 +8,7 @@ body {
 
 a {
   font-family: arial, sans-serif;
-  padding-left: 1px;
-  padding-right: 1px;
+  padding: 0 1px;
 }
 
 a:hover {
