@@ -22,4 +22,5 @@ a:hover {
 
 #message {
   font-style: italic;
+  margin: .5em auto;
 }
