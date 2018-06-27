@@ -11,3 +11,7 @@ body{
 }a:hover{
   font-weight: bolder;
 }
+
+.title {
+    margin-bottom: 5px;
+}
