@@ -15,10 +15,6 @@ a:hover {
   font-weight: bolder;
 }
 
-.title {
-  margin: 5px 0;
-}
-
 #header {
   padding-bottom: 5px;
 }
@@ -30,4 +26,8 @@ a:hover {
 
 #name {
   margin: 1em 0;
+}
+
+.title {
+  margin: 5px 0;
 }
