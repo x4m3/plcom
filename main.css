@@ -16,10 +16,18 @@ a:hover {
 }
 
 .title {
-  margin-bottom: 5px;
+  margin: 5px 0;
+}
+
+#header {
+  padding-bottom: 5px;
 }
 
 #message {
   font-style: italic;
   margin: .5em auto;
+}
+
+#name {
+  margin: 1em 0;
 }
