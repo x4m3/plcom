@@ -18,7 +18,7 @@ var numberElements = Object.keys(messages).length
 /* function to get a random number based on the number of elements */
 function getRandomNumber (numberElements) {
   var min = Math.ceil(0)
-  var max = Math.floor(numberElements) - 1
+  var max = Math.floor(numberElements)
   return Math.floor(Math.random() * (max - min)) + min
 }
 
