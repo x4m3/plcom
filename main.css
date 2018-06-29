@@ -40,13 +40,13 @@ a:hover {
 }
 
 footer {
-  height: 5.5em;
+  padding: .5em 0;
 	color: white;
 	background-color: #24344f;
 }
 
 #copyright {
-  margin: .5em 0;
+  padding-bottom: .5em;
 }
 
 .images {
