@@ -18,12 +18,8 @@ a:hover {
   font-weight: bolder;
 }
 
-#main {
-  flex: 1;
-}
-
-#header {
-  padding: 5px 0;
+header {
+  margin: 1em 0;
 }
 
 #message {
@@ -31,8 +27,8 @@ a:hover {
   margin: .5em auto;
 }
 
-#name {
-  margin: 1em 0;
+#main {
+  flex: 1;
 }
 
 .title {
