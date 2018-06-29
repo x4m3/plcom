@@ -8,7 +8,8 @@ var messages = [
   'laughing to <a href="https://www.reddit.com/r/ProgrammerHumor">r/programmerhumor</a> memes brb',
   'ебусь голову ежедневно',
   'apprenti développeur',
-  'suh dude'
+  'suh dude',
+  'suck a dick, dumb shits! — <a href="https://www.netflix.com/title/70300800">sarah lynn</a>'
 ]
 
 /* get the number of elements */
