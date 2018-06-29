@@ -35,6 +35,10 @@ header {
   margin: 5px 0;
 }
 
+#qrcode {
+  float: left;
+}
+
 footer {
   padding: .5em 0;
 	color: white;
