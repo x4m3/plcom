@@ -1,4 +1,14 @@
 var messages = [
+  '🇫🇷 🇷🇺',
+  'non-stop chaos',
+  'i love vim',
+  '#заебись',
+  'sleep, eat, code, repeat',
+  'maybe playing <a href="http://canvas.place">canvas.place</a>',
+  'laughing to <a href="https://www.reddit.com/r/ProgrammerHumor">r/programmerhumor</a> memes brb',
+  'ебусь голову ежедневно',
+  'apprenti développeur',
+  'suh dude'
 ]
 
 /* get the number of elements */
