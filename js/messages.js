@@ -1,15 +1,12 @@
 var messages = [
   '🇫🇷 🇷🇺',
-  'non-stop chaos',
   'i love vim',
   '#заебись',
   'sleep, eat, code, repeat',
   'maybe playing <a href="http://canvas.place">canvas.place</a>',
   'laughing to <a href="https://www.reddit.com/r/ProgrammerHumor">r/programmerhumor</a> memes brb',
   'ебусь голову ежедневно',
-  'apprenti développeur',
-  'suh dude',
-  'suck a dick, dumb shits! — <a href="https://www.netflix.com/title/70300800">sarah lynn</a>'
+  '<a href="https://www.google.com/search?q=wubba+lubba+dub+dub">wubba lubba dub dub!</a>'
 ]
 
 /* get the number of elements */
