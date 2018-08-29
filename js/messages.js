@@ -6,7 +6,8 @@ var messages = [
   'maybe playing <a href="http://canvas.place">canvas.place</a>',
   'laughing to <a href="https://www.reddit.com/r/ProgrammerHumor">r/programmerhumor</a> memes brb',
   'ебусь голову ежедневно',
-  '<a href="https://www.google.com/search?q=wubba+lubba+dub+dub">wubba lubba dub dub!</a>'
+  '<a href="https://www.google.com/search?q=wubba+lubba+dub+dub">wubba lubba dub dub!</a>',
+  'echo cEBwaGlsaXBwZWxvY3RhdXguY29tCg== | base64 -d'
 ]
 
 /* get the number of elements */
