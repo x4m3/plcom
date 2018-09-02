@@ -7,7 +7,7 @@ var messages = [
   'laughing to <a href="https://www.reddit.com/r/ProgrammerHumor">r/programmerhumor</a> memes brb',
   'ебусь голову ежедневно',
   '<a href="https://www.google.com/search?q=wubba+lubba+dub+dub">wubba lubba dub dub!</a>',
-  'echo cEBwaGlsaXBwZWxvY3RhdXguY29tCg== | base64 -d'
+  'echo cEBwaGlsaXBwZWxvY3RhdXguY29tCg== | base64 --decode'
 ]
 
 /* get the number of elements */
