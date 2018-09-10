@@ -1,55 +1,55 @@
 body {
-  font-family: verdana, helvetica, arial, sans-serif;
-  text-align: center;
-  margin: auto;
-  font-size: 1em;
-  background-color: #eee;
-  display: flex;
-  min-height: 100vh;
-  flex-direction: column;
+	font-family: verdana, helvetica, arial, sans-serif;
+	text-align: center;
+	margin: auto;
+	font-size: 1em;
+	background-color: #eee;
+	display: flex;
+	min-height: 100vh;
+	flex-direction: column;
 }
 
 a {
-  font-family: arial, sans-serif;
-  padding: 0 1px;
+	font-family: arial, sans-serif;
+	padding: 0 1px;
 }
 
 a:hover {
-  font-weight: bolder;
+	font-weight: bolder;
 }
 
 header {
-  margin: 1em 0;
+	margin: 1em 0;
 }
 
 #message {
-  font-style: italic;
-  margin: .5em auto;
+	font-style: italic;
+	margin: .5em auto;
 }
 
 #main {
-  flex: 1;
+	flex: 1;
 }
 
 .title {
-  margin: 5px 0;
+	margin: 5px 0;
 }
 
 #qrcode {
-  float: left;
+	float: left;
 }
 
 footer {
-  padding: .5em 0;
+	padding: .5em 0;
 	color: white;
 	background-color: #24344f;
 }
 
 #copyright {
-  padding-bottom: .5em;
+	padding-bottom: .5em;
 }
 
 .images {
-  width: 44px;
-  height: 44px;
+	width: 44px;
+	height: 44px;
 }
