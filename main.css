@@ -1,8 +1,8 @@
 body {
-	font-family: verdana, helvetica, arial, sans-serif;
+	font-family: helvetica, arial, sans-serif;
 	text-align: center;
 	margin: auto;
-	font-size: 1em;
+	font-size: 1.0em;
 	background-color: #eee;
 	display: flex;
 	min-height: 100vh;
@@ -11,7 +11,7 @@ body {
 
 a {
 	font-family: arial, sans-serif;
-	padding: 0 1px;
+	padding: 0 2px;
 }
 
 a:hover {
@@ -22,21 +22,13 @@ header {
 	margin: 1em 0;
 }
 
-#message {
-	font-style: italic;
+#x4m3 {
 	margin: .5em auto;
 }
 
 #main {
 	flex: 1;
-}
-
-.title {
-	margin: 5px 0;
-}
-
-#qrcode {
-	float: left;
+	font-size: 1.1em;
 }
 
 footer {
@@ -46,10 +38,11 @@ footer {
 }
 
 #copyright {
-	padding-bottom: .5em;
+	font-size: 1.2em;
+	padding: .5em;
 }
 
 .images {
-	width: 44px;
-	height: 44px;
+	width: 55px;
+	height: 55px;
 }
