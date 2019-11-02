@@ -6,23 +6,28 @@ layout: default
 
 ## www
 
-twitter email git
+[Twitter](https://twitter.com/philippeloctaux) [Email](/email) [git](https://git.x4m3.rocks/x4m3)
 
-telegram github linkedin
+[Telegram](https://t.me/philippeloctaux) [GitHub](https://github.com/x4m3) [LinkedIn](https://linkedin.com/in/philippeloctaux)
 
 ## whoami
 
-blog now resume
+[blog](https://blog.x4m3.rocks) [now page](/now)
 
 ## work
 
-leopiccolino
+### leopiccolino
+cms
 
-timelapse
+### timelapse
+canvas.place timelapse
 
-vim plugins
+### vim plugins
+ - vim-epitech
+ - vim-dhex
 
-talks
+### talks
+git gud (tek)
 
 ## cool
 
