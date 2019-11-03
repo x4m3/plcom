@@ -4,7 +4,7 @@ layout: default
 
 # {{ site.name }}
 
-I'm a french guy who codes and likes tech. Currently studying at [Epitech](https://epitech.eu).
+I'm a french guy who codes and likes tech, studying at [Epitech](http://rennes.epitech.eu).
 
 ## www
 
