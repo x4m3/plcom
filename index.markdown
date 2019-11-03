@@ -48,6 +48,10 @@ Giving small talks helps me reduce my fear of public speaking, and I get to shar
 
 - [git gud](https://x4m3.rocks/talks/git-tek.pdf) (Epitech Rennes)
 
+## technologies
+
+unix, c, git, html, css, js, node, typescript, php, mysql, mongo, shell, vimscript, nginx, [jekyll](https://github.com/x4m3/plcom)
+
 ## cool
 
 ### projects
