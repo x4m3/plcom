@@ -33,11 +33,17 @@ I created and maintain a timelapse of a virtual canvas where people place colore
 [Check out the canvas](https://canvas.place)
 
 ### vim plugins
- - vim-epitech
- - vim-dhex
+
+I use vim as my text editor of choice, so I made some plugins to make my life easier.
+
+ - [vim-epitech](https://github.com/x4m3/vim-epitech)
+ - [vim-dhex](https://github.com/x4m3/vim-dhex)
 
 ### talks
-git gud (tek)
+
+Giving small talks allows me to share knowledge and helps me reduce my fear of public speaking.
+
+- [git gud](https://x4m3.rocks/talks/git-tek.pdf) (Epitech Rennes)
 
 ## cool
 
