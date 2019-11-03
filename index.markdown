@@ -34,7 +34,7 @@ I created and maintain a timelapse of a virtual canvas where people place colore
 
 ### vim plugins
 
-I use vim as my text editor of choice, so I made some plugins to make my life easier.
+I use vim as my text editor of choice, so I learned vimscript and wrote plugins to make my life easier.
 
  - [vim-epitech](https://github.com/x4m3/vim-epitech)
  - [vim-dhex](https://github.com/x4m3/vim-dhex)
@@ -51,10 +51,6 @@ solus
 
 openbsd
 
-low level programming (system, embedded)
-
 rust
 
 people (jamie, ayden, corbin, peter, james)
-
-footer Philippe Loctaux 2015-now
