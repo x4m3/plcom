@@ -41,16 +41,32 @@ I use vim as my text editor of choice, so I learned vimscript and wrote plugins 
 
 ### talks
 
-Giving small talks allows me to share knowledge and helps me reduce my fear of public speaking.
+Giving small talks helps me reduce my fear of public speaking, and I get to share what I know.
 
 - [git gud](https://x4m3.rocks/talks/git-tek.pdf) (Epitech Rennes)
 
 ## cool
 
-solus
+### projects
 
-openbsd
+[Solus](https://getsol.us) **Independent Linux distribution**
 
-rust
+[OpenBSD](https://openbsd.org) **Free, Functionnnal and Secure**
 
-people (jamie, ayden, corbin, peter, james)
+[Rust](https://rust-lang.org) **A language to build reliable and efficient software**
+
+[Unicorn Utterances](https://unicorn-utterances.com) **Learning programming from magically majestic words**
+
+[Dynastic](https://dynastic.co) **Building software**
+
+### people
+
+[Jamie](https://twitter.com/jamiebishop123)
+
+[Ayden](https://ayden.dev)
+
+[Corbin](https://unicorn-utterances.com/unicorns/crutchcorn)
+
+[James](https://jfenn.me)
+
+[Peter](https://petersoboyejo.com)
