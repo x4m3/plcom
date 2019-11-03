@@ -18,6 +18,8 @@ Passionate about tech since my childhood and later in programming, I started to 
 
 Sometimes when I feel like it, I write on my [blog](https://blog.x4m3.rocks) and upload [videos](https://youtube.com/philippeloctaux).
 
+I'm also a big fan of [techno music](https://soundcloud.com/ploct4ux/likes).
+
 ## work
 
 Interested in working with me? Get in touch!
@@ -28,6 +30,7 @@ Leopiccolino is a website with a basic shopping cms where the owner can upload a
 [Visit Leopiccolino](https://leopiccolino.fr)
 
 ### timelapse
+
 I created and maintain a timelapse of a virtual canvas where people place colored pixels to make art.
 
 [Check out the canvas](https://canvas.place)
