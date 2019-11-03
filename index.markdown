@@ -25,7 +25,7 @@ I'm also a big fan of [techno music](https://soundcloud.com/ploct4ux/likes).
 Interested in working with me? Get in touch!
 
 ### Leopiccolino
-Leopiccolino is a website with a basic shopping cms where the owner can upload and remove items, customers can add items to a shopping cart and contact the owner to place an order
+Leopiccolino is a website with a basic shopping cms where the owner can upload and remove items, customers can add items to a shopping cart and contact the owner to place an order.
 
 [Visit Leopiccolino](https://leopiccolino.fr)
 
