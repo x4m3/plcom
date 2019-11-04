@@ -81,3 +81,5 @@ I suck at designing things
 [James](https://jfenn.me)
 
 [Peter](https://petersoboyejo.com)
+
+[Wagner](https://wagnerwave.dev)
