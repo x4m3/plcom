@@ -84,26 +84,31 @@ I suck at designing things
 Projects that I think are cool and worth checking out.
 
 <div class="layout--grid">
-    <a class="item item--box" href="https://getsol.us">
-        <span class="item__title">Solus</span>
-        Independent Linux distribution
-    </a>
-    <a class="item item--box" href="https://openbsd.org">
-        <span class="item__title">OpenBSD</span>
-        Free, Functionnnal and Secure
-    </a>
-    <a class="item item--box" href="https://rust-lang.org">
-        <span class="item__title">Rust</span>
-        A language to build reliable and efficient software
-    </a>
-    <a class="item item--box" href="https://unicorn-utterances.com">
-        <span class="item__title">Unicorn Utterances</span>
-        Learning programming from magically majestic words
-    </a>
-    <a class="item item--box" href="https://dynastic.co">
-        <span class="item__title">Dynastic</span>
-        Building software
-    </a>
+    <div class="item item--box" onclick="location.href = 'https://getsol.us';">
+        <a class="item__title" href="https://getsol.us">Solus</a>
+        <br>
+        <span>Independent Linux distribution</span>
+    </div>
+    <div class="item item--box" onclick="location.href = 'https://openbsd.org';">
+        <a class="item__title" href="https://openbsd.org">OpenBSD</a>
+        <br>
+        <span>Free, Functionnnal and Secure</span>
+    </div>
+    <div class="item item--box" onclick="location.href = 'https://rust-lang.org';">
+        <a class="item__title" href="https://rust-lang.org">Rust</a>
+        <br>
+        <span>A language to build reliable and efficient software</span>
+    </div>
+    <div class="item item--box" onclick="location.href = 'https://unicorn-utterances.com';">
+        <a class="item__title" href="https://unicorn-utterances.com">Unicorn Utterances</a>
+        <br>
+        <span>Learning programming from magically majestic words</span>
+    </div>
+    <div class="item item--box" onclick="location.href = 'https://dynastic.co';">
+        <a class="item__title" href="https://dynastic.co">Dynastic</a>
+        <br>
+        <span>Building software</span>
+    </div>
 </div>
 
 ### people
@@ -130,5 +135,3 @@ Folks I worked with or I like what they do.
         <span class="link__title">Wagner</span>
     </a>
 </div>
-
-This list is non exhaustive --- don't worry if your name is not here.
