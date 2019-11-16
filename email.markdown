@@ -4,8 +4,18 @@ title: Email
 permalink: /email/
 ---
 
-p at this domain (or something else)
+# Email
 
-pgp key
+Send me an email if you want to work with me, propose a project idea, or just to say hi!
 
-keybase
+Write to <button id="emailButton" class="button button--selectable" onclick="location.href = 'mailto:p@philippeloctaux.com';">p at philippeloctaux dot com</button>
+
+If you want to encrypt your message, I have a [pgp key](https://x4m3.rocks/pgp-0x69771CD04BA82EC0.txt) at your disposal.
+
+I also have a [Keybase](https://keybase.io/ploctaux) account, but I don't check it often.
+
+<script>
+	document.getElementById("emailButton").addEventListener("click", function() {
+		this.getAttribute("selected") ? this.removeAttribute("selected") : this.setAttribute("selected", true);
+	});
+</script>
