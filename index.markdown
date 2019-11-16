@@ -92,7 +92,7 @@ Projects that I think are cool and worth checking out.
     <div class="item item--box" onclick="location.href = 'https://openbsd.org';">
         <a class="item__title" href="https://openbsd.org">OpenBSD</a>
         <br>
-        <span>Free, Functionnnal and Secure</span>
+        <span>Free, Functional and Secure</span>
     </div>
     <div class="item item--box" onclick="location.href = 'https://rust-lang.org';">
         <a class="item__title" href="https://rust-lang.org">Rust</a>
