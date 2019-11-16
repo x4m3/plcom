@@ -24,35 +24,31 @@ I'm also a big fan of [techno music](https://soundcloud.com/ploct4ux/likes).
 
 Most of what I do is not listed here, usually I hack in something quickly or learn for personal research.
 
-<div class="layout--grid">
-    <div class="item item--box">
-        <a class="item" href="https://leopiccolino.fr">
-            <span class="item__title">Leopiccolino</span>
-            A simple shopping site where the owner can upload and remove items, customers can add items to a shopping cart and contact the owner to place an order.
-        </a>
-    </div>
-    <div class="item item--box">
-        <a class="item" href="https://timelapse.canvas.place">
-            <span class="item__title">timelapse.canvas.place</span>
-            I created and maintain a timelapse of a virtual canvas where people place colored pixels to make art.
-        </a>
-    </div>
-    <div class="item item--box">
-        <span class="item__title">vim plugins</span>
-        I use vim as my text editor of choice, so I learned vimscript and wrote plugins to make my life easier.
-        <p>
-            <a href="https://github.com/x4m3/vim-epitech">vim-epitech</a>
-            <a href="https://github.com/x4m3/vim-dhex">vim-dhex</a>
-        </p>
-    </div>
-    <div class="item item--box">
-        <span class="item__title">talks</span>
-        Giving small talks helps me reduce my fear of public speaking, and I get to share what I know.
-        <p>
-            <a href="https://x4m3.rocks/talks/git-tek.pdf">gid gud</a> (Epitech Rennes)
-        </p>
-    </div>
-</div>
+### Leopiccolino
+A simple shopping site where the owner can upload and remove items, customers add items to a shopping cart and contact the owner to place an order.
+<a class="link" href="https://leopiccolino.fr">
+	<i class="link__img material-icons">link</i>
+	<span class="link__title">leopiccolino.fr</span>
+</a>
+
+### timelapse for canvas.place
+I created and maintain a timelapse of a virtual canvas where people place colored pixels to make art.
+<a class="link" href="https://timelapse.canvas.place">
+	<i class="link__img material-icons">link</i>
+	<span class="link__title">timelapse.canvas.place</span>
+</a>
+
+### vim plugins
+I use vim as my text editor of choice, so I learned vimscript and wrote plugins to make my life easier.
+
+ - [vim-epitech](https://github.com/x4m3/vim-epitech)
+ - [vim-dhex](https://github.com/x4m3/vim-dhex)
+ - [vim-xheader](https://github.com/x4m3/vim-xheader)
+
+### talks
+Giving small talks helps me reduce my fear of public speaking, and I get to share what I know.
+
+- [git gud](https://x4m3.rocks/talks/git-tek.pdf) (Epitech Rennes)
 
 Interested in working with me? Get in touch!
 
