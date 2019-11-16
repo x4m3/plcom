@@ -12,7 +12,7 @@ Write to <button id="emailButton" class="button button--selectable" onclick="loc
 
 If you want to encrypt your message, I have a [pgp key](https://x4m3.rocks/pgp-0x69771CD04BA82EC0.txt) at your disposal.
 
-I also have a [Keybase](https://keybase.io/ploctaux) account, but I don't check it often.
+I also have a [Keybase](/keybase.txt) account, but I don't check it often.
 
 <script>
 	document.getElementById("emailButton").addEventListener("click", function() {
