@@ -112,22 +112,22 @@ Projects that I think are cool and worth checking out.
 Folks I worked with or I like what they do.
 
 <div class="layout--grid">
-    <a class="item item--box link" href="https://twitter.com/jamibishop123">
-        <span class="link__title">Jamie</span>
+    <a class="item item--box link" href="https://twitter.com/jamiebishop123">
+        <span class="link__title">Jamie Bishop</span>
     </a>
     <a class="item item--box link" href="https://ayden.dev">
-        <span class="link__title">Ayden</span>
+        <span class="link__title">Ayden Panhuyzen</span>
     </a>
     <a class="item item--box link" href="https://crutchcorn.dev">
-        <span class="link__title">Corbin</span>
+        <span class="link__title">Corbin Crutchley</span>
     </a>
     <a class="item item--box link" href="https://jfenn.me">
-        <span class="link__title">James</span>
+        <span class="link__title">James Fenn</span>
     </a>
     <a class="item item--box link" href="https://petersoboyejo.com">
-        <span class="link__title">Peter</span>
+        <span class="link__title">Peter Soboyejo</span>
     </a>
     <a class="item item--box link" href="https://wagerwave.dev">
-        <span class="link__title">Wagner</span>
+        <span class="link__title">Alexandre Wagner</span>
     </a>
 </div>
