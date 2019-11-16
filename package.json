@@ -1,0 +1,16 @@
+{
+  "name": "plcom",
+  "version": "1.0.0",
+  "description": "my website",
+  "license": "UNLICENSED",
+  "author": "Philippe Loctaux",
+  "scripts": { "build" : "sass main.scss main.css --no-source-map" },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/x4m3/plcom.git"
+  },
+  "devDependencies": {
+    "@doubledotlabs/dot.css": "0.0.1",
+    "sass": "^1.23.6"
+  }
+}
