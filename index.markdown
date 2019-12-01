@@ -8,7 +8,7 @@ I'm a french guy who codes and likes tech, studying at [Epitech](http://rennes.e
 
 ## www
 
-[Twitter](https://twitter.com/philippeloctaux) [Email](/email) [git](https://git.x4m3.rocks/x4m3)
+[Twitter](https://twitter.com/philippeloctaux) [Email](/email) [git.x4m3.rocks](https://git.x4m3.rocks/x4m3)
 
 [Telegram](https://t.me/philippeloctaux) [GitHub](https://github.com/x4m3) [LinkedIn](https://linkedin.com/in/philippeloctaux)
 
