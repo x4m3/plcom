@@ -127,7 +127,7 @@ Folks I worked with or I like what they do.
     <a class="item item--box link" href="https://petersoboyejo.com">
         <span class="link__title">Peter Soboyejo</span>
     </a>
-    <a class="item item--box link" href="https://wagerwave.dev">
+    <a class="item item--box link" href="https://github.com/wagnerwave">
         <span class="link__title">Alexandre Wagner</span>
     </a>
 </div>
