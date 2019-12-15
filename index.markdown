@@ -71,8 +71,6 @@ Interested in working with me? Get in touch!
 <button class="button">nginx</button>
 <button class="button">jekyll</button>
 
-I suck at designing things
-
 ## cool
 
 ### projects
