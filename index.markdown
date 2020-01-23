@@ -25,14 +25,14 @@ I'm also a big fan of [techno music](https://soundcloud.com/ploct4ux/likes).
 Most of what I do is not listed here, usually I hack in something quickly or learn for personal research.
 
 ### Leopiccolino
-A simple shopping site where the owner can upload and remove items, customers add items to a shopping cart and contact the owner to place an order.
+A simple shopping site where the owner can upload and remove items, customers add items to a shopping cart and contact the owner to place an order. (June 2019)
 <a class="link" href="https://leopiccolino.fr">
 	<i class="link__img material-icons">link</i>
 	<span class="link__title">leopiccolino.fr</span>
 </a>
 
 ### timelapse for canvas.place
-I created and maintain a timelapse of a virtual canvas where people place colored pixels to make art.
+I created and maintained a timelapse of a virtual canvas where people place colored pixels to make art. (April 2017 - January 2020)
 <a class="link" href="https://timelapse.canvas.place">
 	<i class="link__img material-icons">link</i>
 	<span class="link__title">timelapse.canvas.place</span>
