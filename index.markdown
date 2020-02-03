@@ -24,6 +24,13 @@ I'm also a big fan of [techno music](https://soundcloud.com/ploct4ux/likes).
 
 Most of what I do is not listed here, usually I hack in something quickly or learn for personal research.
 
+### epi.today
+A viewer of the Epitech intranet calendar. Aims to be a simpler and cleaner intranet. (since December 2019)
+<a class="link" href="https://epi.today">
+	<i class="link__img material-icons">link</i>
+	<span class="link__title">epi.today</span>
+</a>
+
 ### Leopiccolino
 A simple shopping site where the owner can upload and remove items, customers add items to a shopping cart and contact the owner to place an order. (June 2019)
 <a class="link" href="https://leopiccolino.fr">
