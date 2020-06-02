@@ -56,6 +56,7 @@ I use vim as my text editor of choice, so I learned vimscript and wrote plugins 
 Giving small talks helps me reduce my fear of public speaking, and I get to share what I know.
 
 - [git gud](https://x4m3.rocks/talks/git-tek.pdf) (may 2019, Epitech Rennes)
+- [git & devops](https://x4m3.rocks/talks/git-devops.pdf) (may 2020, Epitech Rennes)
 
 Interested in working with me? Get in touch!
 
