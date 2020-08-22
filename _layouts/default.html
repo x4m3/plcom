@@ -1,29 +1,29 @@
 <!doctype html>
-<html>
+<html lang="en">
 
 <head>
-<meta charset="utf-8">
-<title>{{ site.name }}</title>
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-<link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png">
-<link rel="manifest" href="/favicon/manifest.json">
-<link rel="mask-icon" href="/favicon/safari-pinned-tab.svg" color="#ff0000">
-<link rel="shortcut icon" href="/favicon/favicon.ico">
-<meta name="msapplication-config" content="/favicon/browserconfig.xml">
-<meta name="theme-color" content="#ffffff">
-<link rel="stylesheet" href="https://unpkg.com/normalize.css@8.0.1/normalize.css">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alata&display=swap">
-<link rel="stylesheet" href="/main.css">
+    <meta charset="utf-8">
+    <title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png">
+    <link rel="manifest" href="/favicon/manifest.json">
+    <link rel="mask-icon" href="/favicon/safari-pinned-tab.svg" color="#ff0000">
+    <link rel="shortcut icon" href="/favicon/favicon.ico">
+    <meta name="msapplication-config" content="/favicon/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+    <link rel="stylesheet" href="https://fonts.xz.style/serve/inter.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@exampledev/new.css@1.1.2/new.min.css">
 </head>
 
 <body>
-<main>
 {{ content }}
+
 <br>
-<footer><p>&copy; <script>new Date().getFullYear()>document.write("2015 - " + new Date().getFullYear() + " ");</script>Philippe Loctaux</p></footer>
-</main>
+<footer>
+    <p>&copy; 2015 - {{ 'now' | date: "%Y" }} Philippe Loctaux</p>
+</footer>
 </body>
 
 </html>

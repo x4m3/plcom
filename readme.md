@@ -1,25 +1,23 @@
 # plcom
 
-http://philippeloctaux.com
+my website
+
+https://philippeloctaux.com
 
 ## tech
 
-built using jekyll and sass
+built using [jekyll](https://jekyllrb.com) and [new.css](https://newcss.net)
+
+served by GitHub Pages
 
 ## requirements
 
-ruby, npm
+ruby
 
 ## start working
 
 - get the sources
 - install ruby and run `gem install bundler jekyll` to install the required gems
 - make sure the gems are in your path
-- install node
-- run `npm i` to install dependencies
-- run `npm run build` to build the scss into css
-- start the jekyll server with `bundle exec jekyll server`
-
-## before making a commit
-
-run `npm run build` to build the css if you updated the scss
+- run `bundler install` to install remaining jekyll stuff
+- start the jekyll server with `bundler exec jekyll server`

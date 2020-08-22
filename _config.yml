@@ -1,7 +1,4 @@
-name: Philippe Loctaux
+title: Philippe Loctaux
 
 exclude:
-  - package.json
-  - package-lock.json
   - readme.md
-  - main.scss
