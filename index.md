@@ -84,6 +84,7 @@ Giving small talks helps me reduce my fear of public speaking, and I get to shar
 ### AER
 
 Teaching assistant in Epitech school.
+
 My role is to help first year students when they hit technical problems in their projects, and I grade their work.
 
 Since February 2019
