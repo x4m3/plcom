@@ -96,7 +96,7 @@ I coded a wireless gateway on a ESP8266 chipset in C.
 
 August - December 2019
 
-<h3 style="background-color: white; color: black;"><em>Hire me!</em></h3>
+### *Hire me!*
 
 Interested in working with me? Get in touch!
 
