@@ -87,7 +87,7 @@ Teaching assistant in Epitech school.
 
 My role is to help first year students when they hit technical problems in their projects, and I grade their work.
 
-Since February 2019
+Since February 2020
 
 ### Ubiscale
 
