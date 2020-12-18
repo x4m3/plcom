@@ -111,16 +111,22 @@ If you happen to know someone who is looking for an intern, feel free to link th
 
 I can work comfortably on UNIX-based and Windows systems.
 
-IDE of choice: vim or a Jetbrains tools
+Editor of choice: vim or a Jetbrains tools (and sometimes vscode)
 
 ### I'm alright
 
 - C
 - Git
 
+### I know my way around
+
+- NodeJS
+- Rust
+- Android development
+- Linux packaging
+
 ### I want more experience
 
-- Rust
 - C++
 - Web
 - TypeScript
@@ -131,7 +137,6 @@ IDE of choice: vim or a Jetbrains tools
 ### I'd like to learn
 
 - Development on Apple platforms
-- Android development
 - Webassembly
 - Deno
 
@@ -171,5 +176,5 @@ Folks I worked with, or I like what they do.
 - [James Fenn](https://jfenn.me)
 - [Alex Dueppen](https://ajd.sh)
 - [Peter Soboyejo](https://petersoboyejo.com)
-- [Alexandre Wagner](https://github.com/wagnerwave)
+- [Alexandre Wagner](https://wagnerwave.github.io)
 - [Aidan Follestad](https://af.codes)
