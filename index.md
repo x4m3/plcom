@@ -97,14 +97,6 @@ I coded a wireless gateway on a ESP8266 chipset in C.
 
 August - December 2019
 
-### *Hire me!*
-
-Interested in working with me? Get in touch!
-
-I am also looking for an internship starting in April 2021 during 4-6 months.
-
-If you happen to know someone who is looking for an intern, feel free to link them this website!
-
 ---
 
 ## Skills
