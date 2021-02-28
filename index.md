@@ -23,13 +23,15 @@ I got into tech by learning system administration and setting up servers.
 
 Then got interest into programming by tinkering my linux machine and learning about the kernel and low-level programming.
 
-I started the Epitech computer science school and learned how to solve solutions quickly by working on small projects, each tackling a technical concept.
+I started the Epitech computer science school and learned to tackle technical concepts and applying them quickly by working on small projects.
 
 My goal is to use my knowledge and experience to make software helping its users accomplish their needs.
 
 When I feel like it, I write on my [blog](https://blog.x4m3.rocks) and upload [videos](https://youtube.com/philippeloctaux).
 
-Almost always working while listening to music or podcasts.
+Almost always working while listening to music.
+
+I also like to play Counter-Strike or Rocket League when I have some free time.
 
 I speak English, French 🇫🇷 and Russian 🇷🇺.
 
@@ -74,6 +76,8 @@ I use vim as my text editor of choice, so I learned Vimscript and wrote plugins 
 
 Giving small talks helps me reduce my fear of public speaking, and I get to share what I know.
 
+- [git & devops 2](https://x4m3.rocks/talks/git-devops2.pdf) (February 2021 - Epitech Rennes)
+- [pass4thewin](https://x4m3.rocks/talks/pass4thewin.pdf) (February 2021 - Epitech Rennes)
 - [git & devops](https://x4m3.rocks/talks/git-devops.pdf) (May 2020 - Epitech Rennes)
 - [git gud](https://x4m3.rocks/talks/git-tek.pdf) (May 2019 -  Epitech Rennes)
 
@@ -114,14 +118,13 @@ Editor of choice: vim or a Jetbrains tools (and sometimes vscode)
 
 - NodeJS
 - Rust
-- Android development
 - Linux packaging
+- Web development
 
 ### I want more experience
 
 - C++
-- Web
-- TypeScript
+- Android development
 - Devops
 - Front-end design / GUI
 - Embedded / Hardware
@@ -130,7 +133,6 @@ Editor of choice: vim or a Jetbrains tools (and sometimes vscode)
 
 - Development on Apple platforms
 - Webassembly
-- Deno
 
 ### I'd prefer to avoid
 
